@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<h1 align="left">Technical Expertise</h1>
+<h1 align="left">Programming Language</h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" height="45"/>&nbsp;
@@ -28,6 +28,8 @@
   <img src="https://skillicons.dev/icons?i=github" height="45"/>&nbsp;
 </div>
 
+<h1 align="left">Programming Language</h1>
+<img src="https://camo.githubusercontent.com/a66d645c9aadd3aa3fa34f3fc728e0afd0574ae9f6737340ea1ae8283bff7f5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3139313931393f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642"/>
 <br/><br/>
 
 <h2 align="right">🌐 Connect with Me</h2>
