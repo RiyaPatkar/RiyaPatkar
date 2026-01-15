@@ -14,7 +14,7 @@
 <br/><br/>
 
 <h1 align="left">Programming Language</h1>
-<div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45"/>&nbsp;
@@ -28,8 +28,8 @@
   <img src="https://skillicons.dev/icons?i=github" height="45"/>&nbsp;
 </div>
 
-<h1 align="left">Programming Language</h1>
-<div align="center">
+<h1 align="left">Technologies</h1>
+<div>
 <img src="https://camo.githubusercontent.com/a66d645c9aadd3aa3fa34f3fc728e0afd0574ae9f6737340ea1ae8283bff7f5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3139313931393f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642"/>
 <img src="https://camo.githubusercontent.com/d6afc24ad817371a026641e4bac63fd770a1c3c1d4f9f98d45b47458c6cd3531/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3139313931393f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d343437394131"/>
     <img src="https://camo.githubusercontent.com/d606bc028cb9770d2e662dc42458a4f1178c76898eacee3bd00278feed1e5807/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f524553542532304150492d3139313931393f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e617069696e6974696174697665266c6f676f436f6c6f723d364241353339"/>
