@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&theme=cobalt&height=180&animation=twinkling" width="100%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <h1 align="center">Riya Patkar</h1>
-<h3 align="center">Senior Frontend Developer | Mobile & Web Applications</h3>
+<h3 align="center">Frontend Developer | Mobile </h3>
 
 <p align="center">
   <strong>6+ Years of Experience</strong> building scalable, high-performance applications  
@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-- 💼 **Senior Frontend Developer** with 6+ years of professional experience  
+- 💼 **Frontend Developer** with 6+ years of professional experience  
 - 📱 Specialized in **React Native** for Android & iOS  
 - 🌐 Strong experience in **React.js**, **TypeScript**, and modern JavaScript  
 - ⚙️ Experienced in building **production-grade apps**, REST API integration & performance optimization  
