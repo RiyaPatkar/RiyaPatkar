@@ -29,7 +29,7 @@
 </p>>
 
 ### Programming Language
-<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: flex-center;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: center;">
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
