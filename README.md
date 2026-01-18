@@ -1,6 +1,13 @@
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/heatcode?theme=dark&ext=heatmap&hide_stats=true" />
-
+<img src="https://readme-typing-svg.demolab.com?
+font=Fira+Code&
+size=22&
+pause=1000&
+color=38BDF8&
+center=true&
+vCenter=true&
+width=700&
+lines=Software+Engineer;Data+Structures+and+Algorithms;TypeScript+%7C+Java+%7C+Node.js;Problem+Solver+on+LeetCode" />
 </div>
 
 <h1 align="center">Riya Patkar</h1>
