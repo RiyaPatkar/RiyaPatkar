@@ -1,8 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=160&section=header&text=Software%20Engineer%20%7C%20Problem%20Solver&fontSize=28&fontColor=ffffff&animation=fadeIn" />
-
 </div>
-
 <h1 align="center">Riya Patkar</h1>
 <h3 align="center">Frontend Developer | Mobile Applications</h3>
 
