@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
+<img src="leetcode-snake.svg" /></div>
 
 <h1 align="center">Riya Patkar</h1>
 <h3 align="center">Frontend Developer | Mobile Applications</h3>
