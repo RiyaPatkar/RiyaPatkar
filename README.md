@@ -1,5 +1,7 @@
 <div align="center">
-<img src="leetcode-snake.svg" /></div>
+  <img src="https://leetcard.jacoblin.cool/RiyaPatkar?theme=dark&font=Baloo&ext=heatmap" />
+
+</div>
 
 <h1 align="center">Riya Patkar</h1>
 <h3 align="center">Frontend Developer | Mobile Applications</h3>
