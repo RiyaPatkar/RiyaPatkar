@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/RiyaPatkar?theme=dark&font=Baloo&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/heatcode?theme=dark&ext=heatmap&hide_stats=true" />
 
 </div>
 
