@@ -23,19 +23,15 @@
 
 ## 🛠️ Core Skills
 
- 🛠️ Core Skills
-
 ### 🎨 Frontend & Web
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html&theme=dark" />
 </p>>
 
 ### Mobile Development
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,android,java,kotlin&theme=dark" />
+</p>
 
 ### Backend & APIs
 <div>
