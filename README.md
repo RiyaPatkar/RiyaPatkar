@@ -21,39 +21,43 @@
 
 ---
 
-## 🛠️ Core Skills
+## 🧑‍💻 Technical Skillset
 
-### 🎨 Frontend & Web
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html&theme=dark" />
-</p>>
+<details open>
+<summary><strong>Frontend & Web</strong></summary>
 
-### Programming Language
-<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC" />
-  <img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=3DDC84" />
-  <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=0095D5" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css&theme=dark" height="42"/>
+</p>
 
-### Backend & APIs
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-</div>
+</details>
 
-### Tools & Workflow
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40"/>
-</div>
+<details>
+<summary><strong>Programming Languages</strong></summary>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,c,kotlin&theme=dark" height="42"/>
+</p>
+
+</details>
+
+<details>
+<summary><strong>Backend & Databases</strong></summary>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,rest&theme=dark" height="42"/>
+</p>
+
+</details>
+
+<details>
+<summary><strong>Tools & Workflow</strong></summary>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark" height="42"/>
+</p>
+
+</details>
 
 ---
 
