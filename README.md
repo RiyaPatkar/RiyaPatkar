@@ -21,7 +21,7 @@
 
 ---
 
-## ## 🧑‍💻 Technical Skillset
+## 🧑‍💻 Technical Skillset
 
 <details open>
 <summary><strong>Frontend & Web</strong></summary>
@@ -43,6 +43,32 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,c,kotlin&theme=dark" height="42"/>
+</p>
+
+<br />
+
+</details>
+
+<details>
+<summary><strong>Backend & Databases</strong></summary>
+
+<br />
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,rest&theme=dark" height="42"/>
+</p>
+
+<br />
+
+</details>
+
+<details>
+<summary><strong>Tools & Workflow</strong></summary>
+
+<br />
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark" height="42"/>
 </p>
 
 <br />
